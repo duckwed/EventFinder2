@@ -1,3 +1,4 @@
+下载release版本，可用导出windows日志，csv格式，便于筛选分析
 # EventFinder2
 Finds event logs between two time points. Useful for support/malware analysis.
 
